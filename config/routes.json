@@ -1,0 +1,1 @@
+{"POST /blogs/like/:id": "blog.LikeController.like"}
